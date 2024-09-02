@@ -18,7 +18,7 @@ This project leverages the following technologies:
 
 ## Local Setup Instructions (Write for both windows and macos)
 
-Follow these steps to run the project locally
+Run the index.html file in VSCode or any suitable platform.
 
 1. **Clone the Repository**
    ```bash
