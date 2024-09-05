@@ -7,5 +7,3 @@ Run the index.html file in VSCode or any suitable platform.
    git clone GITHUB_LINK_TO_THE_REPO
    cd REPO_DIRECTORY
    ```
-
-MORE STEPS HERE
