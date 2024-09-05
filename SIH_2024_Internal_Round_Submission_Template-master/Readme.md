@@ -30,8 +30,8 @@ A-Frame,Three.js, EtherCalc, HTML, CSS, JavaScript, NodeJS, WebVR, WebXR
 
 - **Internal Presentation:** [Internal Presentation](https://github.com/prkr0801/SIH-2024/blob/main/ARVR%20for%20Data%20Visualisation%20using%20EtherCalc.pdf)
 - **Final SIH Presentation:** [Final SIH Presentation](https://github.com/prkr0801/SIH-2024/blob/main/SIH1674.pdf)
-- **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=WKZ-o_my9IY)
-- **Live Deployment:** [View Deployment](DEPLOYED LINK IF ANY)
+- **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=Fjt7PmoY20U)
+- **Live Deployment:** [View Deployment](https://v9pt.github.io/AR)
 - **Source Code:** [GitHub Repository](https://github.com/v9pt/AR/blob/master/index.html)
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
 
