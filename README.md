@@ -1,2 +1,11 @@
-**How To Run the File Locally ---->**
-Download the **Index.HTML** file and open it in a AR Supportive browser and use the Appplication.
+## Local Setup Instructions (Write for both windows and macos)
+
+Run the index.html file in VSCode or any suitable platform.
+
+1. **Clone the Repository**
+   ```bash
+   git clone GITHUB_LINK_TO_THE_REPO
+   cd REPO_DIRECTORY
+   ```
+
+MORE STEPS HERE
